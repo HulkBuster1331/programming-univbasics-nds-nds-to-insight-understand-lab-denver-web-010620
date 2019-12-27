@@ -11,6 +11,7 @@ end
 
 
 def print_first_directors_movie_titles
+<<<<<<< HEAD
   row_index = 0 
     movies = directors_database[0][:movies]
      
@@ -21,6 +22,18 @@ def print_first_directors_movie_titles
     row_index += 1     
    end
   
+=======
+
+  row_index = 0 
+   columb_index = 0  
+     nds = "directors_database"
+    
+ while row_index < columb_index do
+     puts 
+  
+     
+  end
+>>>>>>> 785ec10876123574331ea4a778f36f0e6d25c296
 end
 
 
